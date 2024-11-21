@@ -308,11 +308,6 @@ SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-typedef SWIFT_ENUM(NSInteger, GtsCameraSelector, open) {
-  GtsCameraSelectorFront = 0,
-  GtsCameraSelectorBack = 1,
-};
-
 @class GtsConfig;
 @protocol GtsClientDelegate;
 @class UIViewController;
@@ -340,7 +335,6 @@ enum GtsPresentationStyle : NSInteger;
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsConfig")
 @interface GtsConfig : NSObject
 @property (nonatomic) enum GtsLocale locale;
-@property (nonatomic) enum GtsCameraSelector cameraSelector;
 @property (nonatomic) enum GtsPresentationStyle presentationStyle;
 @property (nonatomic, strong) GtsAppearance * _Nullable appearance;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -367,11 +361,13 @@ typedef SWIFT_ENUM(NSInteger, GtsPresentationStyle, open) {
 };
 
 @class UIImage;
+@class NSURL;
 
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsResult")
 @interface GtsResult : NSObject
 @property (nonatomic, strong) UIImage * _Nullable image;
 @property (nonatomic, copy) NSString * _Nullable faceData;
+@property (nonatomic, copy) NSURL * _Nullable videoURL;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -701,11 +697,6 @@ SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-typedef SWIFT_ENUM(NSInteger, GtsCameraSelector, open) {
-  GtsCameraSelectorFront = 0,
-  GtsCameraSelectorBack = 1,
-};
-
 @class GtsConfig;
 @protocol GtsClientDelegate;
 @class UIViewController;
@@ -733,7 +724,6 @@ enum GtsPresentationStyle : NSInteger;
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsConfig")
 @interface GtsConfig : NSObject
 @property (nonatomic) enum GtsLocale locale;
-@property (nonatomic) enum GtsCameraSelector cameraSelector;
 @property (nonatomic) enum GtsPresentationStyle presentationStyle;
 @property (nonatomic, strong) GtsAppearance * _Nullable appearance;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -760,11 +750,13 @@ typedef SWIFT_ENUM(NSInteger, GtsPresentationStyle, open) {
 };
 
 @class UIImage;
+@class NSURL;
 
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsResult")
 @interface GtsResult : NSObject
 @property (nonatomic, strong) UIImage * _Nullable image;
 @property (nonatomic, copy) NSString * _Nullable faceData;
+@property (nonatomic, copy) NSURL * _Nullable videoURL;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

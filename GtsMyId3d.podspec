@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name               = "GtsMyId3d"
-  spec.version            = "1.0.0"
-  spec.platform = :ios, '12.0'
-  spec.ios.deployment_target = '12.0'
+  spec.version            = "1.0.1"
+  spec.platform = :ios, '13.0'
+  spec.ios.deployment_target = '13.0'
   spec.summary            = "GtsMyId3d Framework"
   spec.description        = "GtsMyId3d Framework for iOS"
   spec.homepage           = "https://myid.uz"
