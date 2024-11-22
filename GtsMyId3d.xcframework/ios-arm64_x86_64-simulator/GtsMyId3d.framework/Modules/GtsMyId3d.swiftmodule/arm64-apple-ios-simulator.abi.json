@@ -2802,177 +2802,191 @@
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 647,
+      "offset": 682,
       "length": 24,
       "value": "\"Image Processing Queue\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "Array",
-      "offset": 724,
+      "offset": 759,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 821,
+      "offset": 856,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 861,
+      "offset": 896,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 900,
+      "offset": 935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 942,
+      "offset": 977,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 984,
+      "offset": 1019,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 1022,
+      "offset": 1057,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 1159,
+      "offset": 1194,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "FloatLiteral",
-      "offset": 1517,
+      "offset": 1552,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "FloatLiteral",
-      "offset": 1723,
+      "offset": 1758,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2412,
+      "offset": 2447,
       "length": 42,
       "value": "\"UIDeviceOrientationDidChangeNotification\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 4319,
+      "offset": 4354,
       "length": 14,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 4331,
+      "offset": 4366,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4427,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 4459,
+      "length": 12,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 4470,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 4789,
+      "offset": 4927,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 5123,
+      "offset": 5261,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 5225,
+      "offset": 5363,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 5324,
+      "offset": 5462,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 5609,
+      "offset": 5747,
       "length": 33,
       "value": "\"gts_3d_icon_step_detect_focused\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 5702,
+      "offset": 5840,
       "length": 35,
       "value": "\"gts_3d_icon_step_moving_unfocused\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "FloatLiteral",
-      "offset": 5813,
+      "offset": 5951,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 5828,
+      "offset": 5966,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 5881,
+      "offset": 6019,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 5894,
+      "offset": 6032,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
-      "kind": "StringLiteral",
-      "offset": 5985,
-      "length": 27,
-      "value": "\"gts_3d_icon_step_finished\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
@@ -2984,462 +2998,483 @@
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 6239,
+      "offset": 6261,
+      "length": 27,
+      "value": "\"gts_3d_icon_step_finished\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 6377,
       "length": 33,
       "value": "\"gts_3d_icon_step_moving_focused\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 6356,
+      "offset": 6494,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6369,
+      "offset": 6507,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "FloatLiteral",
-      "offset": 6433,
+      "offset": 6571,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6448,
+      "offset": 6586,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 7291,
+      "offset": 7429,
       "length": 11,
       "value": "\"face_data\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 7338,
+      "offset": 7476,
       "length": 7,
       "value": "\"width\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 7378,
+      "offset": 7516,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "Array",
-      "offset": 7565,
+      "offset": 7703,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 9143,
+      "offset": 9281,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 9165,
+      "offset": 9303,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "Array",
-      "offset": 9498,
+      "offset": 9636,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 9814,
+      "offset": 9952,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 9850,
+      "offset": 9988,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 9943,
+      "offset": 10081,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 10270,
+      "offset": 10408,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10310,
+      "offset": 10448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 10496,
+      "offset": 10634,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10523,
+      "offset": 10661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10657,
+      "offset": 10795,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10790,
+      "offset": 10928,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10913,
+      "offset": 11051,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 10947,
+      "offset": 11085,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 11187,
+      "offset": 11325,
       "length": 33,
       "value": "\"gts_3d_icon_step_detect_focused\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 11340,
+      "offset": 11478,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 11530,
+      "offset": 11668,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11583,
+      "offset": 11721,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11621,
+      "offset": 11759,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 11640,
+      "offset": 11778,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11689,
+      "offset": 11827,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11707,
+      "offset": 11845,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 11780,
+      "offset": 11918,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 11860,
+      "offset": 11998,
       "length": 35,
       "value": "\"gts_3d_icon_step_moving_unfocused\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12015,
+      "offset": 12153,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12205,
+      "offset": 12343,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12258,
+      "offset": 12396,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12296,
+      "offset": 12434,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12315,
+      "offset": 12453,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12364,
+      "offset": 12502,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12382,
+      "offset": 12520,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12455,
+      "offset": 12593,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12524,
+      "offset": 12662,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12619,
+      "offset": 12757,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12752,
+      "offset": 12890,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12799,
+      "offset": 12937,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12867,
+      "offset": 13005,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12960,
+      "offset": 13075,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13328,
+      "offset": 13174,
+      "length": 2,
+      "value": "72"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13310,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13706,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13400,
+      "offset": 13778,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13490,
+      "offset": 13868,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13733,
+      "offset": 14111,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13810,
+      "offset": 14188,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 13919,
+      "offset": 14297,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "FloatLiteral",
-      "offset": 14019,
+      "offset": 14397,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14149,
+      "offset": 14527,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14221,
+      "offset": 14599,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14311,
+      "offset": 14689,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14421,
+      "offset": 14799,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14555,
+      "offset": 14933,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14655,
+      "offset": 15033,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14765,
+      "offset": 15143,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 14984,
+      "offset": 15362,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 15082,
+      "offset": 15460,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 15397,
+      "offset": 15775,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 15401,
+      "offset": 15779,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 15495,
+      "offset": 15873,
       "length": 2,
       "value": "20"
     },
@@ -3936,686 +3971,784 @@
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3080,
+      "offset": 2998,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3084,
+      "offset": 3002,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 3126,
-      "length": 3,
-      "value": "0.7"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "FloatLiteral",
-      "offset": 3190,
+      "offset": 3053,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3059,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3283,
+      "offset": 3152,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3343,
+      "offset": 3222,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3395,
+      "offset": 3279,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3449,
+      "offset": 3338,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3623,
+      "offset": 3520,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3645,
+      "offset": 3542,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3784,
+      "offset": 3681,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3871,
+      "offset": 3768,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "Array",
-      "offset": 4393,
+      "offset": 4141,
       "length": 8,
       "value": "[12, 12]"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4890,
+      "offset": 4684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5054,
+      "offset": 4848,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5276,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6637,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6783,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6988,
-      "length": 3,
-      "value": "480"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7055,
-      "length": 3,
-      "value": "640"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8853,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8999,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9204,
-      "length": 3,
-      "value": "480"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9271,
-      "length": 3,
-      "value": "640"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9823,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9960,
+      "offset": 5070,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 11560,
+      "offset": 5773,
+      "length": 27,
+      "value": "\"No suitable camera found.\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6429,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6575,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6780,
+      "length": 3,
+      "value": "480"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6847,
+      "length": 3,
+      "value": "640"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8645,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8791,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8996,
+      "length": 3,
+      "value": "480"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9063,
+      "length": 3,
+      "value": "640"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9615,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9752,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 11352,
       "length": 6,
       "value": "\".mov\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11877,
+      "offset": 11669,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12050,
+      "offset": 11842,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 12467,
+      "offset": 12259,
       "length": 54,
       "value": "\"Error recording movie: \""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 12520,
+      "offset": 12312,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13878,
+      "offset": 13670,
       "length": 4,
       "value": "1108"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14057,
+      "offset": 13849,
       "length": 4,
       "value": "1108"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14228,
+      "offset": 14020,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14830,
+      "offset": 14622,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15478,
+      "offset": 15270,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16741,
+      "offset": 16533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 17218,
+      "offset": 17010,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17316,
+      "offset": 17108,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 17348,
+      "offset": 17140,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17444,
+      "offset": 17236,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17517,
+      "offset": 17309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17559,
+      "offset": 17351,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17639,
+      "offset": 17431,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18118,
+      "offset": 17910,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18346,
+      "offset": 18138,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18379,
+      "offset": 18171,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18412,
+      "offset": 18204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18676,
+      "offset": 18468,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18682,
+      "offset": 18474,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18735,
+      "offset": 18527,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18741,
+      "offset": 18533,
       "length": 4,
       "value": "0.55"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18821,
+      "offset": 18613,
       "length": 4,
       "value": "0.55"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18828,
+      "offset": 18620,
       "length": 4,
       "value": "0.65"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 18862,
+      "offset": 18654,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18965,
+      "offset": 18757,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 19035,
+      "offset": 18827,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 19160,
+      "offset": 18952,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 19187,
+      "offset": 18979,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 19331,
+      "offset": 19123,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 19434,
+      "offset": 19226,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 21198,
+      "offset": 20990,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21476,
+      "offset": 21268,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 21552,
+      "offset": 21344,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 21579,
+      "offset": 21371,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22356,
+      "offset": 22159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22425,
+      "offset": 22228,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22491,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22495,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "FloatLiteral",
+      "offset": 23096,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "FloatLiteral",
+      "offset": 23102,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23241,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23302,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 23561,
+      "length": 6,
+      "value": "\"path\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "FloatLiteral",
+      "offset": 23608,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 23911,
+      "length": 21,
+      "value": "\"borderPathAnimation\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22725,
+      "offset": 24111,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 24175,
+      "length": 6,
+      "value": "\"path\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "FloatLiteral",
+      "offset": 24220,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 24525,
+      "length": 19,
+      "value": "\"fillPathAnimation\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22748,
+      "offset": 24642,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22779,
+      "offset": 24673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 22885,
+      "offset": 24790,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22899,
+      "offset": 24804,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22957,
+      "offset": 24862,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23009,
+      "offset": 24914,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23191,
+      "offset": 25096,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 23339,
+      "offset": 25244,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23363,
+      "offset": 25268,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23394,
+      "offset": 25299,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 23542,
+      "offset": 25447,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23565,
+      "offset": 25470,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23600,
+      "offset": 25505,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 23748,
+      "offset": 25664,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 23762,
+      "offset": 25678,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23824,
+      "offset": 25740,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23868,
+      "offset": 25784,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 23907,
+      "offset": 25823,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24219,
+      "offset": 26135,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24379,
+      "offset": 26295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24403,
+      "offset": 26319,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24438,
+      "offset": 26354,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24617,
+      "offset": 26533,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 24701,
+      "offset": 26617,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24715,
+      "offset": 26631,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24774,
+      "offset": 26690,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24827,
+      "offset": 26743,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24867,
+      "offset": 26783,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25086,
+      "offset": 27002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 25122,
+      "offset": 27038,
       "length": 1,
       "value": "0"
     },
