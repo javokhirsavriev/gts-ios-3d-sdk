@@ -6,11 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		kztupMR2HU02hAURsW85DCX3pqk=
+		8aS5YwcCJMa+Sg5Z1sGQmtVzDSk=
+		</data>
+		<key>Frameworks/MediaPipeTasksCommon.framework/MediaPipeTasksCommon</key>
+		<data>
+		gXJbeIp1/hanbECfmzlz+ofn4YI=
+		</data>
+		<key>Frameworks/MediaPipeTasksVision.framework/MediaPipeTasksVision</key>
+		<data>
+		C76OniinAdWs3JxNHw5BcynhXug=
 		</data>
 		<key>Headers/GtsMyId3d-Swift.h</key>
 		<data>
-		L8d62qapDQwWH0IgPidL7JmgZyw=
+		I1rlIwvMOnYez/cVB+T55U9fbUw=
 		</data>
 		<key>Headers/GtsMyId3d.h</key>
 		<data>
@@ -18,47 +26,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		On/mjIYi39LeKTfb3gk4XnzCtKU=
+		Pdd/jHsH+ffnjSbXeKgekHfFn8A=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xfR1YWZIlQgwtiaWrc/RkDidE+s=
+		FBpiZ7tPzQc2hg5bFROG/P0reW4=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hHB2f+6RN2kmDYxK0YT4Gx+xbk4=
+		NIzGKBF+QtLrkJqeZ63lZxqlF7w=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jnvzAyS5sgEBoj733PeWuTtBwYI=
+		rJrYd5gQWLVgP+F9jkDaiXaWJMo=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hHB2f+6RN2kmDYxK0YT4Gx+xbk4=
+		NIzGKBF+QtLrkJqeZ63lZxqlF7w=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vibb7wm2lFNmcRr2MCOKGOSNHGo=
+		De0FCzLGtSIuRJc5VZUiXPPH1rU=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xfR1YWZIlQgwtiaWrc/RkDidE+s=
+		FBpiZ7tPzQc2hg5bFROG/P0reW4=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		LXk6S9P8kM2wSpsxQCqRW32xgm0=
+		LezYjqe4dJ9QGEQkuG/6g9w2t5M=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uGGMvTelT1vwfq4a7X7muHxD9FY=
+		Ga5u+LM7xo/A03rOeGOKpRYBptM=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LXk6S9P8kM2wSpsxQCqRW32xgm0=
+		LezYjqe4dJ9QGEQkuG/6g9w2t5M=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UdD9HSDMS5IQVE1Zt1NlVMQLE8w=
+		tiOYQvDHVRQa1uA17FSuAafI6hE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,6 +76,10 @@
 		<data>
 		JC3nNa8sPPJpTwdTLUEzuLGtKzA=
 		</data>
+		<key>face_landmarker.task</key>
+		<data>
+		scrLYYJDcIanI0qfx33gSZ0YBNo=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -75,14 +87,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1oM3A5klhuaDSS9ez9P45HdLMMkbMfviy+q4zef07lU=
+			izBah/R+XXRpTmhGDcstFApEPczsjzU/L5Rgd76pImM=
+			</data>
+		</dict>
+		<key>Frameworks/MediaPipeTasksCommon.framework/MediaPipeTasksCommon</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DP2L5LqmWPRifMfwiFnFRgVXGwZZqnh3tvF6n6BeHMo=
+			</data>
+		</dict>
+		<key>Frameworks/MediaPipeTasksVision.framework/MediaPipeTasksVision</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fe5LtZ5hcqaDUYi+h7AMbKXKsWIK8ySiyBO8rqk+leA=
 			</data>
 		</dict>
 		<key>Headers/GtsMyId3d-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I459eQHQEAnPcrOJ87595FjZiGb3nv8oAQrbfV/0134=
+			xrYnerD6ZhNH2/WMFnafy1K03qi6H7Zf1m++hronvmc=
 			</data>
 		</dict>
 		<key>Headers/GtsMyId3d.h</key>
@@ -96,70 +122,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HOqLCRO+ptKMbKleOdSVBx5CgD6N3zDTHBw2sg5PnyQ=
+			2FT0+dAdR/+tk+QHk6z9z473X6diK/7Cu+4Tpib7ywQ=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cbka8BfC5wagUDEbqO5MCbH4jpnaFN6xdWcdV5nE9oY=
+			UWJs71T/jgmQO7yzuPP4p3wwxBVuLPWeXOQVAHjYvII=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r2RU2K/8bMOaCB/ggtFI4ni4D/DuXVeEOkXGuI7TJ3g=
+			NaXPiqYfFrge05JL1UaWZO6vLie3S30b2XMBSX6SHl8=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cbka8BfC5wagUDEbqO5MCbH4jpnaFN6xdWcdV5nE9oY=
+			UWJs71T/jgmQO7yzuPP4p3wwxBVuLPWeXOQVAHjYvII=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lt2DLQNBTPF1ZQHurycdlxLF0MS9k0+7TxH5+MNLyaM=
+			hf64mHFWdnx0p7N3CjN/r28m2jCmYxz+vpSxyJyCEA0=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HOqLCRO+ptKMbKleOdSVBx5CgD6N3zDTHBw2sg5PnyQ=
+			2FT0+dAdR/+tk+QHk6z9z473X6diK/7Cu+4Tpib7ywQ=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7Gi+NCpPCrXjbXwmMp2mgb4LeM4C5YrCnIYDSGWDf4=
+			fOn+G43zc3PS/xoHQT8CCDy77HLhcrzyzFZRr9EbVtI=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ts1c/Ww9W6BjO+ZjPs/z1MA9TADjg+2waPURcb0Oaqc=
+			G5yqIbNvJQmlL3JUhiOOdSh5WHgVpbNi4SHnJJpNde8=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7Gi+NCpPCrXjbXwmMp2mgb4LeM4C5YrCnIYDSGWDf4=
+			fOn+G43zc3PS/xoHQT8CCDy77HLhcrzyzFZRr9EbVtI=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yf84q/kLpis6uinFQ3cGRgGxOfRVy9MUPWtHYPHOsFM=
+			arcSwXrkP5i87ghnskZe/DwWAW/jeue1AKJyDvzthZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -174,6 +200,13 @@
 			<key>hash2</key>
 			<data>
 			re5T5M8Ea8hKK7JScYBsQUlIer8cbI927i6IH+Z4Y6c=
+			</data>
+		</dict>
+		<key>face_landmarker.task</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZBhOIpsmMQe8K4BMZiXbE0H/K7cxh0sLzC/mVE4Lyf8=
 			</data>
 		</dict>
 	</dict>
