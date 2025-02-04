@@ -8,14 +8,6 @@
 		<data>
 		8aS5YwcCJMa+Sg5Z1sGQmtVzDSk=
 		</data>
-		<key>Frameworks/MediaPipeTasksCommon.framework/MediaPipeTasksCommon</key>
-		<data>
-		gXJbeIp1/hanbECfmzlz+ofn4YI=
-		</data>
-		<key>Frameworks/MediaPipeTasksVision.framework/MediaPipeTasksVision</key>
-		<data>
-		C76OniinAdWs3JxNHw5BcynhXug=
-		</data>
 		<key>Headers/GtsMyId3d-Swift.h</key>
 		<data>
 		I1rlIwvMOnYez/cVB+T55U9fbUw=
@@ -88,20 +80,6 @@
 			<key>hash2</key>
 			<data>
 			izBah/R+XXRpTmhGDcstFApEPczsjzU/L5Rgd76pImM=
-			</data>
-		</dict>
-		<key>Frameworks/MediaPipeTasksCommon.framework/MediaPipeTasksCommon</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DP2L5LqmWPRifMfwiFnFRgVXGwZZqnh3tvF6n6BeHMo=
-			</data>
-		</dict>
-		<key>Frameworks/MediaPipeTasksVision.framework/MediaPipeTasksVision</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fe5LtZ5hcqaDUYi+h7AMbKXKsWIK8ySiyBO8rqk+leA=
 			</data>
 		</dict>
 		<key>Headers/GtsMyId3d-Swift.h</key>
