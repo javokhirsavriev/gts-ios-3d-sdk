@@ -1,1 +1,1 @@
-# gts-ios-3d-sdk
+# GTS iOS 3D SDK
