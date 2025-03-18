@@ -2971,6 +2971,13 @@
       "value": "2"
     },
     {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/GtsClient.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2873,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/GtsPresentationStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 152,
@@ -3165,6 +3172,13 @@
       "offset": 1147,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1998,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/GTS\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Base\/BaseScreen.swift",
