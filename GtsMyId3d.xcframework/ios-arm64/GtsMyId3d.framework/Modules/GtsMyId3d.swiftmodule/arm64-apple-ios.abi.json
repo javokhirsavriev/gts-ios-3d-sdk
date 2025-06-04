@@ -1253,13 +1253,6 @@
       },
       {
         "kind": "Import",
-        "name": "Photos",
-        "printedName": "Photos",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
