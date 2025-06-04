@@ -314,12 +314,12 @@ SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
 
 @class GtsConfig;
 @protocol GtsClientDelegate;
-@class UIViewController;
+@class UINavigationController;
 
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsClient")
 @interface GtsClient : NSObject
 + (void)startWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate;
-+ (UIViewController * _Nonnull)runWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate SWIFT_WARN_UNUSED_RESULT;
++ (UINavigationController * _Nonnull)buildMyIdViewControllerWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate showCancelButton:(BOOL)showCancelButton shouldDismiss:(BOOL)shouldDismiss SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -374,7 +374,6 @@ SWIFT_CLASS("_TtC9GtsMyId3d9GtsResult")
 @property (nonatomic, copy) NSURL * _Nullable videoURL;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
 
 
 
