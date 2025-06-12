@@ -18,10 +18,16 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc public class GtsAppearance : ObjectiveC.NSObject {
-  @objc public var primaryColor: UIKit.UIColor?
-  @objc public var successColor: UIKit.UIColor?
-  @objc public var errorColor: UIKit.UIColor?
+@_inheritsConvenienceInitializers @objc public class GtsResult : ObjectiveC.NSObject {
+  @objc public var image: UIKit.UIImage?
+  @objc public var faceData: Swift.String?
+  @objc public var videoURL: Foundation.URL?
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc public class GtsClient : ObjectiveC.NSObject {
+  @objc public class func start(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate)
+  @objc public class func buildMyIdViewController(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
   @objc override dynamic public init()
   @objc deinit
 }
@@ -35,6 +41,25 @@ import _SwiftConcurrencyShims
     get
   }
 }
+@objc public protocol GtsClientDelegate {
+  @objc func onCompletion(result: GtsMyId3d.GtsResult)
+  @objc func onFailure(exception: GtsMyId3d.GtsException)
+  @objc func onCancelled()
+}
+@_inheritsConvenienceInitializers @objc public class GtsAppearance : ObjectiveC.NSObject {
+  @objc public var primaryColor: UIKit.UIColor?
+  @objc public var successColor: UIKit.UIColor?
+  @objc public var errorColor: UIKit.UIColor?
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc public class GtsConfig : ObjectiveC.NSObject {
+  @objc public var locale: GtsMyId3d.GtsLocale
+  @objc public var presentationStyle: GtsMyId3d.GtsPresentationStyle
+  @objc public var appearance: GtsMyId3d.GtsAppearance?
+  @objc override dynamic public init()
+  @objc deinit
+}
 @objc public enum GtsPresentationStyle : Swift.Int {
   case Full = 0
   case Sheet
@@ -44,34 +69,9 @@ import _SwiftConcurrencyShims
     get
   }
 }
-@_inheritsConvenienceInitializers @objc public class GtsClient : ObjectiveC.NSObject {
-  @objc public class func start(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate)
-  @objc public class func buildMyIdViewController(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
-  @objc override dynamic public init()
-  @objc deinit
-}
-@objc public protocol GtsClientDelegate {
-  @objc func onCompletion(result: GtsMyId3d.GtsResult)
-  @objc func onFailure(exception: GtsMyId3d.GtsException)
-  @objc func onCancelled()
-}
-@_inheritsConvenienceInitializers @objc public class GtsConfig : ObjectiveC.NSObject {
-  @objc public var locale: GtsMyId3d.GtsLocale
-  @objc public var presentationStyle: GtsMyId3d.GtsPresentationStyle
-  @objc public var appearance: GtsMyId3d.GtsAppearance?
-  @objc override dynamic public init()
-  @objc deinit
-}
 @_inheritsConvenienceInitializers @objc public class GtsException : ObjectiveC.NSObject {
   @objc public var message: Swift.String?
   @objc public var code: Swift.String?
-  @objc override dynamic public init()
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @objc public class GtsResult : ObjectiveC.NSObject {
-  @objc public var image: UIKit.UIImage?
-  @objc public var faceData: Swift.String?
-  @objc public var videoURL: Foundation.URL?
   @objc override dynamic public init()
   @objc deinit
 }
