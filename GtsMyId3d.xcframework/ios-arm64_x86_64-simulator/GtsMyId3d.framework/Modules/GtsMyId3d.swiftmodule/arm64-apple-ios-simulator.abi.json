@@ -36,27 +36,13 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "GtsMyId3d",
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
       },
       {
         "kind": "TypeDecl",
@@ -65,8 +51,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "primaryColor",
-            "printedName": "primaryColor",
+            "name": "colorPrimary",
+            "printedName": "colorPrimary",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -84,8 +70,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)primaryColor",
-            "mangledName": "$s9GtsMyId3d0A10AppearanceC12primaryColorSo7UIColorCSgvp",
+            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)colorPrimary",
+            "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorPrimarySo7UIColorCSgvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
               "HasInitialValue",
@@ -116,8 +102,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)primaryColor",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12primaryColorSo7UIColorCSgvg",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)colorPrimary",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorPrimarySo7UIColorCSgvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -151,8 +137,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setPrimaryColor:",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12primaryColorSo7UIColorCSgvs",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setColorPrimary:",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorPrimarySo7UIColorCSgvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -172,8 +158,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A10AppearanceC12primaryColorSo7UIColorCSgvM",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12primaryColorSo7UIColorCSgvM",
+                "usr": "s:9GtsMyId3d0A10AppearanceC12colorPrimarySo7UIColorCSgvM",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorPrimarySo7UIColorCSgvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -182,8 +168,8 @@
           },
           {
             "kind": "Var",
-            "name": "successColor",
-            "printedName": "successColor",
+            "name": "colorSuccess",
+            "printedName": "colorSuccess",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -201,8 +187,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)successColor",
-            "mangledName": "$s9GtsMyId3d0A10AppearanceC12successColorSo7UIColorCSgvp",
+            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)colorSuccess",
+            "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorSuccessSo7UIColorCSgvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
               "HasInitialValue",
@@ -233,8 +219,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)successColor",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12successColorSo7UIColorCSgvg",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)colorSuccess",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorSuccessSo7UIColorCSgvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -268,8 +254,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setSuccessColor:",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12successColorSo7UIColorCSgvs",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setColorSuccess:",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorSuccessSo7UIColorCSgvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -289,8 +275,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A10AppearanceC12successColorSo7UIColorCSgvM",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC12successColorSo7UIColorCSgvM",
+                "usr": "s:9GtsMyId3d0A10AppearanceC12colorSuccessSo7UIColorCSgvM",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC12colorSuccessSo7UIColorCSgvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -299,8 +285,8 @@
           },
           {
             "kind": "Var",
-            "name": "errorColor",
-            "printedName": "errorColor",
+            "name": "colorError",
+            "printedName": "colorError",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -318,8 +304,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)errorColor",
-            "mangledName": "$s9GtsMyId3d0A10AppearanceC10errorColorSo7UIColorCSgvp",
+            "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(py)colorError",
+            "mangledName": "$s9GtsMyId3d0A10AppearanceC10colorErrorSo7UIColorCSgvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
               "HasInitialValue",
@@ -350,8 +336,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)errorColor",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC10errorColorSo7UIColorCSgvg",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)colorError",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC10colorErrorSo7UIColorCSgvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -385,8 +371,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setErrorColor:",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC10errorColorSo7UIColorCSgvs",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsAppearance(im)setColorError:",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC10colorErrorSo7UIColorCSgvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -406,8 +392,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A10AppearanceC10errorColorSo7UIColorCSgvM",
-                "mangledName": "$s9GtsMyId3d0A10AppearanceC10errorColorSo7UIColorCSgvM",
+                "usr": "s:9GtsMyId3d0A10AppearanceC10colorErrorSo7UIColorCSgvM",
+                "mangledName": "$s9GtsMyId3d0A10AppearanceC10colorErrorSo7UIColorCSgvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -795,8 +781,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "GtsMyId3d",
         "declAttributes": [
@@ -822,10 +808,180 @@
       },
       {
         "kind": "Import",
-        "name": "CryptoSwift",
-        "printedName": "CryptoSwift",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
         "declKind": "Import",
         "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1061,64 +1217,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1139,115 +1237,8 @@
       },
       {
         "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreImage.CIFilterBuiltins",
-        "printedName": "CoreImage.CIFilterBuiltins",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreVideo",
-        "printedName": "CoreVideo",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "AssetsLibrary",
-        "printedName": "AssetsLibrary",
+        "name": "CryptoSwift",
+        "printedName": "CryptoSwift",
         "declKind": "Import",
         "moduleName": "GtsMyId3d"
       },
@@ -1270,33 +1261,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
       },
       {
         "kind": "TypeDecl",
@@ -1340,8 +1304,8 @@
           },
           {
             "kind": "Function",
-            "name": "buildMyIdViewController",
-            "printedName": "buildMyIdViewController(withConfig:withDelegate:showCancelButton:shouldDismiss:)",
+            "name": "buildViewController",
+            "printedName": "buildViewController(withConfig:withDelegate:showCancelButton:shouldDismiss:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1377,11 +1341,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@GtsMyId3d@objc(cs)GtsClient(cm)buildMyIdViewControllerWithConfig:withDelegate:showCancelButton:shouldDismiss:",
-            "mangledName": "$s9GtsMyId3d0A6ClientC05buildB16IdViewController10withConfig0I8Delegate16showCancelButton13shouldDismissSo012UINavigationH0CAA0aJ0C_AA0adK0_pS2btFZ",
+            "usr": "c:@M@GtsMyId3d@objc(cs)GtsClient(cm)buildViewControllerWithConfig:withDelegate:showCancelButton:shouldDismiss:",
+            "mangledName": "$s9GtsMyId3d0A6ClientC19buildViewController10withConfig0H8Delegate16showCancelButton13shouldDismissSo012UINavigationG0CAA0aI0C_AA0adJ0_pS2btFZ",
             "moduleName": "GtsMyId3d",
             "static": true,
-            "objc_name": "buildMyIdViewControllerWithConfig:withDelegate:showCancelButton:shouldDismiss:",
+            "objc_name": "buildViewControllerWithConfig:withDelegate:showCancelButton:shouldDismiss:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -2067,25 +2031,16 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Var",
             "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(py)message",
-            "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSSgvp",
+            "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl",
               "ObjC"
@@ -2099,22 +2054,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(im)message",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSSgvg",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2134,22 +2081,14 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(im)setMessage:",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSSgvs",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2169,8 +2108,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A9ExceptionC7messageSSSgvM",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSSgvM",
+                "usr": "s:9GtsMyId3d0A9ExceptionC7messageSSvM",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC7messageSSvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -2184,25 +2123,16 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
               }
             ],
             "declKind": "Var",
             "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(py)code",
-            "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSSSgvp",
+            "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSivp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl",
               "ObjC"
@@ -2216,22 +2146,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(im)code",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSSSgvg",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSivg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2251,22 +2173,14 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsException(im)setCode:",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSSSgvs",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSivs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2286,13 +2200,46 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A9ExceptionC4codeSSSgvM",
-                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSSSgvM",
+                "usr": "s:9GtsMyId3d0A9ExceptionC4codeSivM",
+                "mangledName": "$s9GtsMyId3d0A9ExceptionC4codeSivM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(message:code:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GtsException",
+                "printedName": "GtsMyId3d.GtsException",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsException"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9GtsMyId3d0A9ExceptionC7message4codeACSS_Sitcfc",
+            "mangledName": "$s9GtsMyId3d0A9ExceptionC7message4codeACSS_Sitcfc",
+            "moduleName": "GtsMyId3d",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Constructor",
@@ -2330,7 +2277,6 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"
         ],
@@ -2422,25 +2368,16 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIImage?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIImage",
-                    "printedName": "UIKit.UIImage",
-                    "usr": "c:objc(cs)UIImage"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
               }
             ],
             "declKind": "Var",
             "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(py)image",
-            "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCSgvp",
+            "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl",
               "ObjC"
@@ -2454,22 +2391,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIImage?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIImage",
-                        "printedName": "UIKit.UIImage",
-                        "usr": "c:objc(cs)UIImage"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)image",
-                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCSgvg",
+                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2489,22 +2418,14 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIImage?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIImage",
-                        "printedName": "UIKit.UIImage",
-                        "usr": "c:objc(cs)UIImage"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)setImage:",
-                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCSgvs",
+                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2524,8 +2445,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A6ResultC5imageSo7UIImageCSgvM",
-                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCSgvM",
+                "usr": "s:9GtsMyId3d0A6ResultC5imageSo7UIImageCvM",
+                "mangledName": "$s9GtsMyId3d0A6ResultC5imageSo7UIImageCvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -2656,25 +2577,16 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.URL?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "URL",
-                    "printedName": "Foundation.URL",
-                    "usr": "s:10Foundation3URLV"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
               }
             ],
             "declKind": "Var",
             "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(py)videoURL",
-            "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VSgvp",
+            "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0Vvp",
             "moduleName": "GtsMyId3d",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl",
               "ObjC"
@@ -2688,22 +2600,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Foundation.URL?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "URL",
-                        "printedName": "Foundation.URL",
-                        "usr": "s:10Foundation3URLV"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)videoURL",
-                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VSgvg",
+                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0Vvg",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2723,22 +2627,14 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Foundation.URL?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "URL",
-                        "printedName": "Foundation.URL",
-                        "usr": "s:10Foundation3URLV"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
                   }
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)setVideoURL:",
-                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VSgvs",
+                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0Vvs",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "declAttributes": [
@@ -2758,13 +2654,158 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VSgvM",
-                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VSgvM",
+                "usr": "s:9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VvM",
+                "mangledName": "$s9GtsMyId3d0A6ResultC8videoURL10Foundation0F0VvM",
                 "moduleName": "GtsMyId3d",
                 "implicit": true,
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "isFaceOccluded",
+            "printedName": "isFaceOccluded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(py)isFaceOccluded",
+            "mangledName": "$s9GtsMyId3d0A6ResultC14isFaceOccludedSbvp",
+            "moduleName": "GtsMyId3d",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)isFaceOccluded",
+                "mangledName": "$s9GtsMyId3d0A6ResultC14isFaceOccludedSbvg",
+                "moduleName": "GtsMyId3d",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult(im)setIsFaceOccluded:",
+                "mangledName": "$s9GtsMyId3d0A6ResultC14isFaceOccludedSbvs",
+                "moduleName": "GtsMyId3d",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9GtsMyId3d0A6ResultC14isFaceOccludedSbvM",
+                "mangledName": "$s9GtsMyId3d0A6ResultC14isFaceOccludedSbvM",
+                "moduleName": "GtsMyId3d",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(image:faceData:videoURL:isFaceOccluded:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GtsResult",
+                "printedName": "GtsMyId3d.GtsResult",
+                "usr": "c:@M@GtsMyId3d@objc(cs)GtsResult"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9GtsMyId3d0A6ResultC5image8faceData8videoURL14isFaceOccludedACSo7UIImageC_SSSg10Foundation0I0VSbtcfc",
+            "mangledName": "$s9GtsMyId3d0A6ResultC5image8faceData8videoURL14isFaceOccludedACSo7UIImageC_SSSg10Foundation0I0VSbtcfc",
+            "moduleName": "GtsMyId3d",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Constructor",
@@ -2802,7 +2843,6 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"
         ],
@@ -2870,6 +2910,16 @@
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -2945,34 +2995,6 @@
       "offset": 160,
       "length": 7,
       "value": "2"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Core\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 123,
-      "length": 34,
-      "value": "\"xhYhXuY@q$XzKa2q!w?5Zu#WqVFdZB+v\""
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Core\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 178,
-      "length": 18,
-      "value": "\"bbC2H19lkVbQDfak\""
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/GtsPresentationStyle.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/GtsPresentationStyle.swift",
-      "kind": "IntegerLiteral",
-      "offset": 163,
-      "length": 5,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Base\/BaseScreen.swift",
@@ -3061,196 +3083,182 @@
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "StringLiteral",
-      "offset": 710,
+      "offset": 724,
       "length": 24,
       "value": "\"Image Processing Queue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
-      "kind": "Array",
-      "offset": 787,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 880,
+      "offset": 793,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 920,
+      "offset": 833,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 959,
+      "offset": 872,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 1005,
+      "offset": 918,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 1047,
+      "offset": 960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 1085,
+      "offset": 998,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 1122,
+      "offset": 1035,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FaceDetectionScreen.swift",
       "kind": "Array",
-      "offset": 1172,
+      "offset": 1085,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 1534,
+      "offset": 1516,
       "length": 18,
       "value": "\"videoOutputQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 1610,
+      "offset": 1592,
       "length": 18,
       "value": "\"audioOutputQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 1699,
+      "offset": 1672,
       "length": 22,
       "value": "\"imageProcessingQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
-      "kind": "Array",
-      "offset": 1772,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2036,
+      "offset": 1910,
       "length": 22,
       "value": "\"depthDataOutputQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2136,
+      "offset": 2010,
       "length": 55,
       "value": "\"com.google.mediapipe.cameraController.backgroundQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2273,
+      "offset": 2147,
       "length": 66,
       "value": "\"com.google.mediapipe.cameraController.faceLandmarkerServiceQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3492,
+      "offset": 3366,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3527,
+      "offset": 3401,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3571,
+      "offset": 3445,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3622,
+      "offset": 3496,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3673,
+      "offset": 3547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3717,
+      "offset": 3591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3760,
+      "offset": 3634,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3810,
+      "offset": 3684,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3860,
+      "offset": 3734,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3888,
+      "offset": 3762,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/FacialGestureCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24790,
+      "offset": 24749,
       "length": 4,
       "value": "true"
     },
@@ -3283,25 +3291,67 @@
       "value": "1"
     },
     {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/GtsClient.swift",
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/GtsPresentationStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 152,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/GtsPresentationStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 163,
+      "length": 5,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Core\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 123,
+      "length": 34,
+      "value": "\"xhYhXuY@q$XzKa2q!w?5Zu#WqVFdZB+v\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Core\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 18,
+      "value": "\"bbC2H19lkVbQDfak\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Core\/UIImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 581,
+      "offset": 133,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/GtsClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 617,
+      "offset": 559,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/GtsClient.swift",
+      "kind": "BooleanLiteral",
+      "offset": 595,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/GtsClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 3125,
+      "offset": 3103,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphonesimulator\/GtsMyId3d.build\/DerivedSources\/CoreMLGenerated\/face_segmentation\/face_segmentation.swift",
+      "kind": "Array",
+      "offset": 464,
+      "length": 9,
+      "value": "[\"input\"]"
     },
     {
       "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphonesimulator\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",

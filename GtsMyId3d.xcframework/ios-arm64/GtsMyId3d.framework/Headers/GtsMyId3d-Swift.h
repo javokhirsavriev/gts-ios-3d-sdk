@@ -306,9 +306,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
 @interface GtsAppearance : NSObject
-@property (nonatomic, strong) UIColor * _Nullable primaryColor;
-@property (nonatomic, strong) UIColor * _Nullable successColor;
-@property (nonatomic, strong) UIColor * _Nullable errorColor;
+@property (nonatomic, strong) UIColor * _Nullable colorPrimary;
+@property (nonatomic, strong) UIColor * _Nullable colorSuccess;
+@property (nonatomic, strong) UIColor * _Nullable colorError;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -319,7 +319,7 @@ SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsClient")
 @interface GtsClient : NSObject
 + (void)startWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate;
-+ (UINavigationController * _Nonnull)buildMyIdViewControllerWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate showCancelButton:(BOOL)showCancelButton shouldDismiss:(BOOL)shouldDismiss SWIFT_WARN_UNUSED_RESULT;
++ (UINavigationController * _Nonnull)buildViewControllerWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate showCancelButton:(BOOL)showCancelButton shouldDismiss:(BOOL)shouldDismiss SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -348,9 +348,10 @@ SWIFT_CLASS("_TtC9GtsMyId3d9GtsConfig")
 
 SWIFT_CLASS("_TtC9GtsMyId3d12GtsException")
 @interface GtsException : NSObject
-@property (nonatomic, copy) NSString * _Nullable message;
-@property (nonatomic, copy) NSString * _Nullable code;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@property (nonatomic, copy) NSString * _Nonnull message;
+@property (nonatomic) NSInteger code;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 typedef SWIFT_ENUM(NSInteger, GtsLocale, open) {
@@ -369,11 +370,14 @@ typedef SWIFT_ENUM(NSInteger, GtsPresentationStyle, open) {
 
 SWIFT_CLASS("_TtC9GtsMyId3d9GtsResult")
 @interface GtsResult : NSObject
-@property (nonatomic, strong) UIImage * _Nullable image;
+@property (nonatomic, strong) UIImage * _Nonnull image;
 @property (nonatomic, copy) NSString * _Nullable faceData;
-@property (nonatomic, copy) NSURL * _Nullable videoURL;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@property (nonatomic, copy) NSURL * _Nonnull videoURL;
+@property (nonatomic) BOOL isFaceOccluded;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 

@@ -3,11 +3,7 @@
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name GtsMyId3d
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
-import AssetsLibrary
-import CoreImage.CIFilterBuiltins
-import Combine
-import CoreImage
-import CoreVideo
+import CoreML
 import DeveloperToolsSupport
 import Foundation
 @_exported import GtsMyId3d
@@ -19,9 +15,9 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_inheritsConvenienceInitializers @objc public class GtsAppearance : ObjectiveC.NSObject {
-  @objc public var primaryColor: UIKit.UIColor?
-  @objc public var successColor: UIKit.UIColor?
-  @objc public var errorColor: UIKit.UIColor?
+  @objc public var colorPrimary: UIKit.UIColor?
+  @objc public var colorSuccess: UIKit.UIColor?
+  @objc public var colorError: UIKit.UIColor?
   @objc override dynamic public init()
   @objc deinit
 }
@@ -46,7 +42,7 @@ import _SwiftConcurrencyShims
 }
 @_inheritsConvenienceInitializers @objc public class GtsClient : ObjectiveC.NSObject {
   @objc public class func start(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate)
-  @objc public class func buildMyIdViewController(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
+  @objc public class func buildViewController(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
   @objc override dynamic public init()
   @objc deinit
 }
@@ -62,17 +58,18 @@ import _SwiftConcurrencyShims
   @objc override dynamic public init()
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc public class GtsException : ObjectiveC.NSObject {
-  @objc public var message: Swift.String?
-  @objc public var code: Swift.String?
-  @objc override dynamic public init()
+@objc public class GtsException : ObjectiveC.NSObject {
+  @objc public var message: Swift.String
+  @objc public var code: Swift.Int
+  public init(message: Swift.String, code: Swift.Int)
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc public class GtsResult : ObjectiveC.NSObject {
-  @objc public var image: UIKit.UIImage?
+@objc public class GtsResult : ObjectiveC.NSObject {
+  @objc public var image: UIKit.UIImage
   @objc public var faceData: Swift.String?
-  @objc public var videoURL: Foundation.URL?
-  @objc override dynamic public init()
+  @objc public var videoURL: Foundation.URL
+  @objc public var isFaceOccluded: Swift.Bool
+  public init(image: UIKit.UIImage, faceData: Swift.String?, videoURL: Foundation.URL, isFaceOccluded: Swift.Bool)
   @objc deinit
 }
 extension GtsMyId3d.GtsLocale : Swift.Equatable {}
