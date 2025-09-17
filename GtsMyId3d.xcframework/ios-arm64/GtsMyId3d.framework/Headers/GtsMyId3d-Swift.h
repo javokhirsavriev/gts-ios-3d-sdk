@@ -304,72 +304,72 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class UIColor;
 
-SWIFT_CLASS("_TtC9GtsMyId3d13GtsAppearance")
-@interface GtsAppearance : NSObject
+SWIFT_CLASS("_TtC9GtsMyId3d15Gts3dAppearance")
+@interface Gts3dAppearance : NSObject
 @property (nonatomic, strong) UIColor * _Nullable colorPrimary;
 @property (nonatomic, strong) UIColor * _Nullable colorSuccess;
 @property (nonatomic, strong) UIColor * _Nullable colorError;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class GtsConfig;
-@protocol GtsClientDelegate;
+@class Gts3dConfig;
+@protocol Gts3dClientDelegate;
 @class UINavigationController;
 
-SWIFT_CLASS("_TtC9GtsMyId3d9GtsClient")
-@interface GtsClient : NSObject
-+ (void)startWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate;
-+ (UINavigationController * _Nonnull)buildViewControllerWithConfig:(GtsConfig * _Nonnull)config withDelegate:(id <GtsClientDelegate> _Nonnull)delegate showCancelButton:(BOOL)showCancelButton shouldDismiss:(BOOL)shouldDismiss SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS("_TtC9GtsMyId3d11Gts3dClient")
+@interface Gts3dClient : NSObject
++ (void)startWithConfig:(Gts3dConfig * _Nonnull)config withDelegate:(id <Gts3dClientDelegate> _Nonnull)delegate;
++ (UINavigationController * _Nonnull)buildViewControllerWithConfig:(Gts3dConfig * _Nonnull)config withDelegate:(id <Gts3dClientDelegate> _Nonnull)delegate showCancelButton:(BOOL)showCancelButton shouldDismiss:(BOOL)shouldDismiss SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class GtsResult;
-@class GtsException;
+@class Gts3dResult;
+@class Gts3dException;
 
-SWIFT_PROTOCOL("_TtP9GtsMyId3d17GtsClientDelegate_")
-@protocol GtsClientDelegate
-- (void)onCompletionWithResult:(GtsResult * _Nonnull)result;
-- (void)onFailureWithException:(GtsException * _Nonnull)exception;
+SWIFT_PROTOCOL("_TtP9GtsMyId3d19Gts3dClientDelegate_")
+@protocol Gts3dClientDelegate
+- (void)onCompletionWithResult:(Gts3dResult * _Nonnull)result;
+- (void)onFailureWithException:(Gts3dException * _Nonnull)exception;
 - (void)onCancelled;
 @end
 
-enum GtsLocale : NSInteger;
-enum GtsPresentationStyle : NSInteger;
+enum Gts3dLocale : NSInteger;
+enum Gts3dPresentationStyle : NSInteger;
 
-SWIFT_CLASS("_TtC9GtsMyId3d9GtsConfig")
-@interface GtsConfig : NSObject
-@property (nonatomic) enum GtsLocale locale;
-@property (nonatomic) enum GtsPresentationStyle presentationStyle;
-@property (nonatomic, strong) GtsAppearance * _Nullable appearance;
+SWIFT_CLASS("_TtC9GtsMyId3d11Gts3dConfig")
+@interface Gts3dConfig : NSObject
+@property (nonatomic) enum Gts3dLocale locale;
+@property (nonatomic) enum Gts3dPresentationStyle presentationStyle;
+@property (nonatomic, strong) Gts3dAppearance * _Nullable appearance;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @class NSString;
 
-SWIFT_CLASS("_TtC9GtsMyId3d12GtsException")
-@interface GtsException : NSObject
+SWIFT_CLASS("_TtC9GtsMyId3d14Gts3dException")
+@interface Gts3dException : NSObject
 @property (nonatomic, copy) NSString * _Nonnull message;
 @property (nonatomic) NSInteger code;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-typedef SWIFT_ENUM(NSInteger, GtsLocale, open) {
-  GtsLocaleKyrgyz = 0,
-  GtsLocaleEnglish = 1,
-  GtsLocaleRussian = 2,
+typedef SWIFT_ENUM(NSInteger, Gts3dLocale, open) {
+  Gts3dLocaleKyrgyz = 0,
+  Gts3dLocaleEnglish = 1,
+  Gts3dLocaleRussian = 2,
 };
 
-typedef SWIFT_ENUM(NSInteger, GtsPresentationStyle, open) {
-  GtsPresentationStyleFull = 0,
-  GtsPresentationStyleSheet = 1,
+typedef SWIFT_ENUM(NSInteger, Gts3dPresentationStyle, open) {
+  Gts3dPresentationStyleFull = 0,
+  Gts3dPresentationStyleSheet = 1,
 };
 
 @class UIImage;
 @class NSURL;
 
-SWIFT_CLASS("_TtC9GtsMyId3d9GtsResult")
-@interface GtsResult : NSObject
+SWIFT_CLASS("_TtC9GtsMyId3d11Gts3dResult")
+@interface Gts3dResult : NSObject
 @property (nonatomic, strong) UIImage * _Nonnull image;
 @property (nonatomic, copy) NSString * _Nullable faceData;
 @property (nonatomic, copy) NSURL * _Nonnull videoURL;

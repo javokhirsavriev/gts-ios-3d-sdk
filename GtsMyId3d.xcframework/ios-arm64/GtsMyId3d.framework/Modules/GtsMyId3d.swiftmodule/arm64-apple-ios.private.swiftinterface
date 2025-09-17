@@ -14,14 +14,14 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc public class GtsAppearance : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc public class Gts3dAppearance : ObjectiveC.NSObject {
   @objc public var colorPrimary: UIKit.UIColor?
   @objc public var colorSuccess: UIKit.UIColor?
   @objc public var colorError: UIKit.UIColor?
   @objc override dynamic public init()
   @objc deinit
 }
-@objc public enum GtsLocale : Swift.Int {
+@objc public enum Gts3dLocale : Swift.Int {
   case Kyrgyz = 0
   case English
   case Russian
@@ -31,7 +31,7 @@ import _SwiftConcurrencyShims
     get
   }
 }
-@objc public enum GtsPresentationStyle : Swift.Int {
+@objc public enum Gts3dPresentationStyle : Swift.Int {
   case Full = 0
   case Sheet
   public init?(rawValue: Swift.Int)
@@ -40,31 +40,31 @@ import _SwiftConcurrencyShims
     get
   }
 }
-@_inheritsConvenienceInitializers @objc public class GtsClient : ObjectiveC.NSObject {
-  @objc public class func start(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate)
-  @objc public class func buildViewController(withConfig config: GtsMyId3d.GtsConfig, withDelegate delegate: any GtsMyId3d.GtsClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
+@_inheritsConvenienceInitializers @objc public class Gts3dClient : ObjectiveC.NSObject {
+  @objc public class func start(withConfig config: GtsMyId3d.Gts3dConfig, withDelegate delegate: any GtsMyId3d.Gts3dClientDelegate)
+  @objc public class func buildViewController(withConfig config: GtsMyId3d.Gts3dConfig, withDelegate delegate: any GtsMyId3d.Gts3dClientDelegate, showCancelButton: Swift.Bool = true, shouldDismiss: Swift.Bool = false) -> UIKit.UINavigationController
   @objc override dynamic public init()
   @objc deinit
 }
-@objc public protocol GtsClientDelegate {
-  @objc func onCompletion(result: GtsMyId3d.GtsResult)
-  @objc func onFailure(exception: GtsMyId3d.GtsException)
+@objc public protocol Gts3dClientDelegate {
+  @objc func onCompletion(result: GtsMyId3d.Gts3dResult)
+  @objc func onFailure(exception: GtsMyId3d.Gts3dException)
   @objc func onCancelled()
 }
-@_inheritsConvenienceInitializers @objc public class GtsConfig : ObjectiveC.NSObject {
-  @objc public var locale: GtsMyId3d.GtsLocale
-  @objc public var presentationStyle: GtsMyId3d.GtsPresentationStyle
-  @objc public var appearance: GtsMyId3d.GtsAppearance?
+@_inheritsConvenienceInitializers @objc public class Gts3dConfig : ObjectiveC.NSObject {
+  @objc public var locale: GtsMyId3d.Gts3dLocale
+  @objc public var presentationStyle: GtsMyId3d.Gts3dPresentationStyle
+  @objc public var appearance: GtsMyId3d.Gts3dAppearance?
   @objc override dynamic public init()
   @objc deinit
 }
-@objc public class GtsException : ObjectiveC.NSObject {
+@objc public class Gts3dException : ObjectiveC.NSObject {
   @objc public var message: Swift.String
   @objc public var code: Swift.Int
   public init(message: Swift.String, code: Swift.Int)
   @objc deinit
 }
-@objc public class GtsResult : ObjectiveC.NSObject {
+@objc public class Gts3dResult : ObjectiveC.NSObject {
   @objc public var image: UIKit.UIImage
   @objc public var faceData: Swift.String?
   @objc public var videoURL: Foundation.URL
@@ -72,9 +72,9 @@ import _SwiftConcurrencyShims
   public init(image: UIKit.UIImage, faceData: Swift.String?, videoURL: Foundation.URL, isFaceOccluded: Swift.Bool)
   @objc deinit
 }
-extension GtsMyId3d.GtsLocale : Swift.Equatable {}
-extension GtsMyId3d.GtsLocale : Swift.Hashable {}
-extension GtsMyId3d.GtsLocale : Swift.RawRepresentable {}
-extension GtsMyId3d.GtsPresentationStyle : Swift.Equatable {}
-extension GtsMyId3d.GtsPresentationStyle : Swift.Hashable {}
-extension GtsMyId3d.GtsPresentationStyle : Swift.RawRepresentable {}
+extension GtsMyId3d.Gts3dLocale : Swift.Equatable {}
+extension GtsMyId3d.Gts3dLocale : Swift.Hashable {}
+extension GtsMyId3d.Gts3dLocale : Swift.RawRepresentable {}
+extension GtsMyId3d.Gts3dPresentationStyle : Swift.Equatable {}
+extension GtsMyId3d.Gts3dPresentationStyle : Swift.Hashable {}
+extension GtsMyId3d.Gts3dPresentationStyle : Swift.RawRepresentable {}
