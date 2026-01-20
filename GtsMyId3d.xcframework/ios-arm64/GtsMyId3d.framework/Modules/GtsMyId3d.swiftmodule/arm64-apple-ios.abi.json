@@ -781,210 +781,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "MediaPipeTasksVision",
-        "printedName": "MediaPipeTasksVision",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "GtsMyId3d",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1217,6 +1013,210 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1240,7 +1240,10 @@
         "name": "CryptoSwift",
         "printedName": "CryptoSwift",
         "declKind": "Import",
-        "moduleName": "GtsMyId3d"
+        "moduleName": "GtsMyId3d",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -2997,6 +3000,20 @@
       "value": "2"
     },
     {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/Gts3dPresentationStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 154,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/Gts3dPresentationStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 5,
+      "value": "1"
+    },
+    {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Base\/BaseScreen.swift",
       "kind": "BooleanLiteral",
       "offset": 272,
@@ -3263,45 +3280,31 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/Colors.swift",
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/AppColors.swift",
       "kind": "StringLiteral",
-      "offset": 124,
+      "offset": 127,
       "length": 9,
       "value": "\"#80C01B\""
     },
     {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/Colors.swift",
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/AppColors.swift",
       "kind": "StringLiteral",
-      "offset": 173,
+      "offset": 176,
       "length": 9,
       "value": "\"#80C01B\""
     },
     {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/Colors.swift",
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/AppColors.swift",
       "kind": "StringLiteral",
-      "offset": 220,
+      "offset": 223,
       "length": 9,
       "value": "\"#D6232A\""
     },
     {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/Colors.swift",
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/AppColors.swift",
       "kind": "IntegerLiteral",
-      "offset": 313,
+      "offset": 316,
       "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/Gts3dPresentationStyle.swift",
-      "kind": "IntegerLiteral",
-      "offset": 154,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Model\/Gts3dPresentationStyle.swift",
-      "kind": "IntegerLiteral",
-      "offset": 165,
-      "length": 5,
       "value": "1"
     },
     {
@@ -3342,7 +3345,7 @@
     {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Capture\/Gts3dClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 3119,
+      "offset": 3315,
       "length": 5,
       "value": "false"
     },
@@ -3356,37 +3359,37 @@
     {
       "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 744,
+      "length": 19,
+      "value": "\"gts_3d_icon_close\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 930,
       "length": 33,
       "value": "\"gts_3d_icon_step_detect_focused\""
     },
     {
       "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 959,
+      "offset": 1119,
       "length": 27,
       "value": "\"gts_3d_icon_step_finished\""
     },
     {
       "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1153,
+      "offset": 1313,
       "length": 33,
       "value": "\"gts_3d_icon_step_moving_focused\""
     },
     {
       "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1357,
+      "offset": 1517,
       "length": 35,
       "value": "\"gts_3d_icon_step_moving_unfocused\""
-    },
-    {
-      "filePath": "\/Users\/javokhir\/Library\/Developer\/Xcode\/DerivedData\/GtsMyId3d-cqkyszyrmvekmzboluzgzqxtezqk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GtsMyId3d\/IntermediateBuildFilesPath\/GtsMyId3d.build\/Release-iphoneos\/GtsMyId3d.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 1533,
-      "length": 19,
-      "value": "\"gts_3d_icon_close\""
     }
   ]
 }
