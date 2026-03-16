@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		2LLgHKct2GkCQlUjpJaalculuZU=
+		c7wD8qG+P/NyjRfdLTHKVbtP9LQ=
 		</data>
 		<key>Headers/GtsMyId3d-Swift.h</key>
 		<data>
-		YwXdfWumgvc2hBt6w/QtVk1OQ80=
+		oP8yOej2p3yTs/R9ZdghfwgkL5g=
 		</data>
 		<key>Headers/GtsMyId3d.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dLdPfw+uQX3v92QnZHBVFLyCb3E=
+		DDS6y5ZmNM1yMNy8ChYhPVpuOx0=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Cul53uTU8BbYpsCTJtI+TE8+6h0=
+		fCo0Axwh4qate4PGDse9Wja/554=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8F6OAxziJ91yBghv51AE224kmIQ=
+		BbWYY+EmNmv7j7yPxPfZc2cEOIs=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LMm9XgRXYbCbtdUqWPilg/3AVs0=
+		1hY2Vts268q9aCiWFeKe7zgLrao=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8F6OAxziJ91yBghv51AE224kmIQ=
+		BbWYY+EmNmv7j7yPxPfZc2cEOIs=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ar08lD1U0T9ZGwKMv5GXnaV7I+A=
+		IxfxwjmsYe2x6cM2oqbMX4CiHSg=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Cul53uTU8BbYpsCTJtI+TE8+6h0=
+		fCo0Axwh4qate4PGDse9Wja/554=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xmzivjXZ/AALpD2AXR8Y01eNxfs=
+		N8CtcOUb5OTxqHho7f3Tkfxy4JI=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RT3Ep11m2nW2/44Y9FfJKMd1Bho=
+		OYKBrFznWIjR/ZbMraJkVNnhrOQ=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xmzivjXZ/AALpD2AXR8Y01eNxfs=
+		N8CtcOUb5OTxqHho7f3Tkfxy4JI=
 		</data>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QHNFc6tSgOtZOWgKmhpKy6IJ/0s=
+		S6sXdl0cR1MQn1o94jCxUI4lI+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,13 +68,17 @@
 		<data>
 		JC3nNa8sPPJpTwdTLUEzuLGtKzA=
 		</data>
+		<key>face_landmarker.task</key>
+		<data>
+		scrLYYJDcIanI0qfx33gSZ0YBNo=
+		</data>
 		<key>face_segmentation.mlmodelc/analytics/coremldata.bin</key>
 		<data>
 		EHL2ej2j0hNwZDAHA1JQ0bmyDiE=
 		</data>
 		<key>face_segmentation.mlmodelc/coremldata.bin</key>
 		<data>
-		FSTzNq60gejFjiiP8Z70z3rT1Jg=
+		Eew8x+7bhqXareOWsjF54mi3YQA=
 		</data>
 		<key>face_segmentation.mlmodelc/metadata.json</key>
 		<data>
@@ -95,14 +99,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6LrYUrzrudw4fFtw2Oc+ZNN5uryAoS1Cvn6Lx6/7P0k=
+			efV9wvTKzg6iXFocpMUxkWjpf6AJVxR5ETZ/JhRDXRg=
 			</data>
 		</dict>
 		<key>Headers/GtsMyId3d-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AI3RsL/VKv+lAHnlf5SqTf6KHsZH073Gux/SHyXKpBE=
+			ffRZ12vmbnOZpZ6QeL67k+ygocrihDah15ukskjkSGU=
 			</data>
 		</dict>
 		<key>Headers/GtsMyId3d.h</key>
@@ -116,70 +120,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IdbCnvZHvQNhbdqkE/Yjrnkrg2O7XMpyCdpZ1hoU9Ak=
+			AmM8g+RCLsJFbuzt1xd0mN48dk3FXxSb0Q+wavTyurQ=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKKhuWhhWQCYbc9D98T+G7t4h/b2ls4X/AuiztHoQhc=
+			xD8328ATEAYY0OSJB7wseRcbKAnFvx0E6RfzU5VvpJc=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iS4pzTuwwPrldvGezTqci/d68tzdPxoLeRG+3OJ9z9U=
+			pu85O1mND67LmPqxMayt1/uoDSqqfbaf4o+S2HAWAcI=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKKhuWhhWQCYbc9D98T+G7t4h/b2ls4X/AuiztHoQhc=
+			xD8328ATEAYY0OSJB7wseRcbKAnFvx0E6RfzU5VvpJc=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p2X0gphIKLzBLRSTHBF/ZDrSsgKovK2OK2bnmASyY5Y=
+			9goeNcppDKWofJZ3hnHdlesrx/jcuUGO8aPKUmrdLNU=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IdbCnvZHvQNhbdqkE/Yjrnkrg2O7XMpyCdpZ1hoU9Ak=
+			AmM8g+RCLsJFbuzt1xd0mN48dk3FXxSb0Q+wavTyurQ=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kwkgy80b3etafeLGDyGQ5SfEP5wOotDE+JrHKEaZXfg=
+			+M+w1YyvRQXuq1ppKTb3euGX0hITkoCMujhTIpC0bS8=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qETuFaB/XvTbU0AP6gZOxNcoLdctX/c2lom74c8LGis=
+			rnsfFWv0dTZAf7EOGkg4b7SdNyc17YIr4284lJyih48=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kwkgy80b3etafeLGDyGQ5SfEP5wOotDE+JrHKEaZXfg=
+			+M+w1YyvRQXuq1ppKTb3euGX0hITkoCMujhTIpC0bS8=
 			</data>
 		</dict>
 		<key>Modules/GtsMyId3d.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/4JJJa0H66lHIuwZH5QJlJRbcN2XVlR2B8iZI1LbLqg=
+			Id0xDCsrCVc9pcDcRe65WJrVf4E9+pz+g1S/xSHpLkM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -196,6 +200,13 @@
 			re5T5M8Ea8hKK7JScYBsQUlIer8cbI927i6IH+Z4Y6c=
 			</data>
 		</dict>
+		<key>face_landmarker.task</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZBhOIpsmMQe8K4BMZiXbE0H/K7cxh0sLzC/mVE4Lyf8=
+			</data>
+		</dict>
 		<key>face_segmentation.mlmodelc/analytics/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
@@ -207,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Us7w/JPOnfqQiRMSHdXmMSw/f7vgQQBXuCk5UQBZO2k=
+			1gLdYwzZQ6m2hNL4y6HSv5bOAB+jIEcycuDS/Ci/jlU=
 			</data>
 		</dict>
 		<key>face_segmentation.mlmodelc/metadata.json</key>

@@ -3280,6 +3280,13 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Face detection\/VideoWriter.swift",
+      "kind": "StringLiteral",
+      "offset": 539,
+      "length": 42,
+      "value": "\"uz.uzinfocom.GtsMyId3d.videowriter.queue\""
+    },
+    {
       "filePath": "\/Users\/javokhir\/Downloads\/gts-ios-3d-sdk\/GtsMyId3d\/Presentation\/Resources\/AppColors.swift",
       "kind": "StringLiteral",
       "offset": 127,
